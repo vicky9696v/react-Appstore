@@ -1,0 +1,22 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50vw;
+  height: 50px;
+}
+.tab-btn {
+  font-family: 'Bree Serif';
+  color: #9aa5b1;
+  font-weight: 500;
+  font-size: 16px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.isActive {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+}
